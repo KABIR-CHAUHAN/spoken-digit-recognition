@@ -75,9 +75,21 @@ The model contains:
 
 ## Results
 
-- Training macro F1: 0.9999
-- Private Kaggle F1: 0.99285
-- Private leaderboard rank: 18 / 25 teams
+| Metric | Result |
+|---|---:|
+| Private Kaggle F1 Score | **0.99285** |
+| Team Rank | **18 / 25** |
+| Training Macro F1 | **0.9999** |
+| Train Samples | **37,800** |
+| Test Samples | **16,000** |
+
+The model achieved a **0.99285 F1 score on the private Kaggle leaderboard**, placing the team **18th among 25 teams**.
+
+The reported training macro F1 of 0.9999 was calculated on the full training split and should not be interpreted as a held-out validation score.
+
+## Kaggle Competition
+
+[View Kaggle Competition]([YOUR_KAGGLE_LINK](https://www.kaggle.com/competitions/digitrecognition-ee708))
 
 ## Technologies
 
