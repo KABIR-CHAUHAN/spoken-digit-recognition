@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Data
+data/
+*.wav
+*.mp3
+*.flac
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Cached features
+cache/
+*.npy
+*.npz
+
+# Kaggle
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
