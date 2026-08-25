@@ -89,8 +89,7 @@ The reported training macro F1 of 0.9999 was calculated on the full training spl
 
 ## Kaggle Competition
 
-[View Kaggle Competition]([YOUR_KAGGLE_LINK](https://www.kaggle.com/competitions/digitrecognition-ee708))
-
+[View Kaggle Competition]((https://www.kaggle.com/competitions/digitrecognition-ee708))
 ## Technologies
 
 - Python
